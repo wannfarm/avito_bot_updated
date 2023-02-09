@@ -6,6 +6,6 @@ PROJECT_NAME = 'Avito bot'
 DRIVER_PATH = ChromeDriverManager().install()
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) \
     AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
-BOT_TOKEN = getenv('AVITO_BOT_TOKEN')
-ADMIN_ID = getenv('ADMIN_ID')
+BOT_TOKEN = getenv('5638444004:AAHh88xS3T5hERo0Ejj0u4h_Mo4Ed3kTL_M')
+ADMIN_ID = getenv('awildson')
 CHECK_FREQUENCY = 10
